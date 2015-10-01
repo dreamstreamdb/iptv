@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
-<channels>
-
-<channel>
-<name>[B]LIVE ENTERTAINMENT CHANNELS[/B]</name>
+<item>
+<title>[B]LIVE ENTERTAINMENT CHANNELS[/B]</title>
 <link>http://ignoreme</link>
 <externallink>http://myxml.co/ds-ent-xml</externallink>
 <thumbnail>​http://myxml.co/ds-playcon</thumbnail>
 <fanart>​http://myxml.co/ds-ent-fan</fanart>
-</channel>
+</item>
 
 <channel>       
 <name>[B]LIVE SPORTS CHANNELS[/B]</name>
@@ -41,5 +39,3 @@
 <thumbnail>​http://myxml.co/ds-playcon</thumbnail>
 <fanart>​http://myxml.co/ds-ent-fan</fanart>
 </channel>
-
-</channels>
