@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+
+<channels>
+
+<channel>
+<name>[B]LIVE ENTERTAINMENT CHANNELS[/B]</name>
+<link>http://ignoreme</link>
+<externallink>http://myxml.co/ds-ent-xml</externallink>
+<thumbnail>​http://myxml.co/ds-playcon</thumbnail>
+<fanart>​http://myxml.co/ds-ent-fan</fanart>
+</channels>
+
+<channels>       
+<name>[B]LIVE SPORTS CHANNELS[/B]</name>
+<link>http://ignoreme</link>
+<externallink>​http://myxml.co/ds-sports-xml</externallink>
+<thumbnail>​http://myxml.co/ds-playcon</thumbnail>
+<fanart>​http://myxml.co/ds-sports-fan</fanart>
+</channels>
+
+<channels>
+<name>[B]LIVE MOVIE CHANNELS[/B]</name>
+<link>http://ignoreme</link>
+<externallink>​http://myxml.co/ds-mov-xml</externallink>
+<thumbnail>​http://myxml.co/ds-playcon</thumbnail>
+<fanart>​http://myxml.co/ds-mov-fan</fanart>
+</channels>
+
+<channels>
+<name>[B]LIVE NEWS CHANNELS[/B]</name>
+<link>http://ignoreme</link>
+<externallink>​http://myxml.co/ds-news-xml</externallink>
+<thumbnail>​http://myxml.co/ds-playcon</thumbnail>
+<fanart>​http://myxml.co/ds-news-fan</fanart>
+</channels>
+
+<channels>
+<name>[B]24/7 TV SHOWS[/B]</name>
+<link>http://ignoreme</link>
+<externallink>http://myxml.co/ds-247-xml</externallink>
+<thumbnail>​http://myxml.co/ds-playcon</thumbnail>
+<fanart>​http://myxml.co/ds-ent-fan</fanart>
+</channels>
+
+</channels>
