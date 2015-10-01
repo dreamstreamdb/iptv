@@ -8,13 +8,13 @@
 <fanart>​http://myxml.co/ds-ent-fan</fanart>
 </item>
 
-<channel>       
-<name>[B]LIVE SPORTS CHANNELS[/B]</name>
+<item>       
+<title>[B]LIVE SPORTS CHANNELS[/B]</title>
 <link>http://ignoreme</link>
 <externallink>​http://myxml.co/ds-sports-xml</externallink>
 <thumbnail>​http://myxml.co/ds-playcon</thumbnail>
 <fanart>​http://myxml.co/ds-sports-fan</fanart>
-</channel>
+</item>
 
 <channel>
 <name>[B]LIVE MOVIE CHANNELS[/B]</name>
